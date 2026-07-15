@@ -44,6 +44,8 @@ I'm mainly interested in **new technology and how it actually fits into everyday
 
 **Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=react&logoColor=white)
 
@@ -59,7 +61,7 @@ I'm mainly interested in **new technology and how it actually fits into everyday
 
 - **Languages:** C#, Python, C++, JavaScript, TypeScript, Dart *(learning)*, Java *(basics)*
 - **Backend:** .NET, EF Core, FastAPI, Django *(basics)*, Telegram Bot API (aiogram)
-- **Frontend:** React (JS & TS), Zustand, react-select
+- **Frontend:** HTML, CSS, React (JS & TS), Zustand, react-select
 - **Data / infra:** PostgreSQL, RabbitMQ, Docker, GitLab CI runners
 - **AI / ML:** speech recognition (STT) and TTS models in bot pipelines; day-to-day work with Claude, ChatGPT, Nano Banana, Kling
 - **Testing / tooling:** Bogus, Git, Bash, PowerShell
