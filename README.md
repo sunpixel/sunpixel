@@ -78,12 +78,11 @@ Mostly learning-in-public repositories — experiments, prototypes and coursewor
 
 ---
 
-### 📊 Stats
+### 🌱 Currently
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunpixel&show_icons=true&hide_border=true&theme=tokyonight" alt="SunPixel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpixel&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
+- Learning **Dart / Flutter** — aiming for a small cross-platform app of my own
+- Poking at **Unreal Engine 5.5+** in the evenings
+- Looking for ways to bolt AI agents onto things that don't need AI agents (and occasionally finding one that does)
 
 ---
 
